@@ -7,3 +7,5 @@ This creates additional computational demand. Therefore, arrays of specified siz
 ## Note
 
 Passing `ARRAY[*]` allows for the implementation of more generalized functionality. The decision on whether to use a specified or unspecified size needs to be taken depending on the concrete circumstances.
+
+Back to [Overview](./01_Introduction.md)

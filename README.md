@@ -3,6 +3,8 @@
 This repository serves to provide programming guidelines for users of SIMATIC AX.
 It's primary goal is to address programming related suggestions that impact the runtime performance.
 
+See the [Overview](./docs/01_Introduction.md) to find the different recommendations.
+
 ## Target platforms
 
 Generally, the assumed target platform is the SIMATIC S7-1500 / S7-1500T portfolio. This includes also the S7-1508S (Software Controller) and S7-1504D / S7-1507D (Drive Controllers).
