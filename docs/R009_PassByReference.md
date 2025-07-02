@@ -1,4 +1,4 @@
-# Recommendation R006: Pass structured parameters as reference
+# Recommendation R009: Pass structured parameters as reference
 
 SIMATIC AX and the SIMATIC runtime system offer different mechanisms for passing parameters.
 _Pass by value_ means that the formal parameter is a copy of the argument value provided when calling the POU.
